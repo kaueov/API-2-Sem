@@ -21,7 +21,7 @@
  </div>
 
  ### Jira Software
-  Através dele foi desgnada a tarefa e o prazo das atividades de cada membro do projeto, organiando em anexos os outros aplicativos utilizados
+  Através dele foi desgnada a tarefa e o prazo das atividades de cada membro do projeto, indicando o nivel de prioridade de cada tarefa a ser realizada e em qual sprint devem ser entregues organiando em anexos os outros aplicativos utilizados
 
  ### Sublime Text
   As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta deseu tamanho, então elas foram filtradas em forma de texto através do Sublime text, que permite que diferentes arquivos de texto sejam executados simultaneamente em abas diferentes
@@ -31,21 +31,26 @@
   
   
  # Backlog do Produto
-
- 1º Sprint
-Entrega de backlog
-Entendimento do problema e proposta de solução 
-Entrega do git
+<table>
+ <tr>
+ <td>1º Sprint</td>
+<td>Limpeza dos dados (descarte do desnecessário)</td>
+<td></td>Gráfico geral</td>
+Primeira tela interativa
 
 2º Sprint
-Entregar planilha com busca intuitiva e com dados separados e filtrados 
-
+Filtragem da matris de origem e destino
+Arrumar erros
+NCM
+Filtro por unidades
+Segunda tela interativa
 
 3º Sprint
-Dashobard indicando produtos de alto valor agregado importados e exportados no Vale do Paraíba 
+Arrumar erros
+Design do BI
+Valor FOB e peso(kg)
+Terceira tela interativa
 
-4°sprint
-Dashboard indicando quais produtos de alto valor agragado poderiam passar a serem transportados pelo modal aéreo a fim de aumentar a eficiencia do transporte
 
 
 
@@ -64,7 +69,7 @@ Dashboard indicando quais produtos de alto valor agragado poderiam passar a sere
 <td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-<td>Mateus</td>
+<td>Mateus Alexandre</td>
 <td><a href="https://www.linkedin.com/in/paulo-henrique-b21680306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
@@ -72,7 +77,7 @@ Dashboard indicando quais produtos de alto valor agragado poderiam passar a sere
 <td><a href="https://www.linkedin.com/in/daniel-pac%C3%ADfico-500520323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-<td>Breno</td>
+<td>Breno Conrado</td>
 <td><a href="https://www.linkedin.com/in/andreza-maria-4a6625277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
 </table>
