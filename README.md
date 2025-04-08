@@ -1,10 +1,11 @@
 # API-2-Sem
 <div align="center">
 <img src="null" alt="Texto alternativo" width="1000"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=000&text=VoNa%20Kombi&fontColor=C4B454"/>
  </div>
 
 # Proposta
- Analisar o fluxo de produtos interno do Brasil e o destino de importação e exprotação com outros países
+ Realizar uma análise minuciosa sobre o fluxo logístico e comercial de produtos no território nacional brasileiro, investigando detalhadamente as rotas, modais de transporte e regiões de maior circulação de mercadorias. Além disso, examinar os principais destinos internacionais envolvidos nas relações de importação e exportação, identificando os países com maior relevância nas trocas comerciais e os tipos de produtos movimentados
  # Ferramentas Utilizadas
  - Jira Software
  - Excel
@@ -30,6 +31,10 @@
   
   
  # Backlog do Produto
+ <div align="center">
+ <img width=100% src=![image](https://github.com/user-attachments/assets/55f1bc3d-b62b-4e7c-8627-2491c870a519)
+/>
+ </div>
 <table>
  <tr>
  <td>1º Sprint</td>
