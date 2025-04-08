@@ -32,37 +32,10 @@
   
  # Backlog do Produto
  <div align="center">
- <img width=100% src=![image](https://github.com/user-attachments/assets/55f1bc3d-b62b-4e7c-8627-2491c870a519)
+ <img width=100% src="https://github.com/kaueov/API-2-Sem/blob/main/backlog.png"
 />
  </div>
-<table>
- <tr>
- <td>1º Sprint</td>
-  <td>2ºSprint</td>
-   <td>3ºSprint</td>
-</tr>
-<tr>
- <td>Limpeza dos dados (descarte do desnecessário)</td>
-  <td>Filtragem da matriz de origem e destino</td>
-   <td>Correções</td>
-    
-</tr>
-<tr>
- <td>Gráfico geral</td>
-  <td>NCM</td>
-   <td>Design do BI</td>
-</tr>
-<tr>
- <td>Primeira tela interativa</td>
-  <td>Filtro por unidades</td>
-   <td>Valor FOB e peso(Kg)</td>
-</tr>
-<tr>
- <td> </td>
-  <td>Segunda tela interativa</td>
-   <td>Terceira tela interativa</td>
-</tr>
-</table>
+
 
 
 
@@ -73,41 +46,41 @@
 <tr>
 <td>(Função)</td>
  <td>Breno Conrado</td>
-<td><a href="https://www.linkedin.com/in/kauê-oliveira-venâncio-b076b0192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+<td><a href="https://www.linkedin.com/in/bcconrado?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
   <td>(Função)</td>
 <td>Eduardo Pereira</td>
-<td><a href="https://www.linkedin.com/in/pedro-hernandes-720486212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
-</tr>
- <tr>
-  <td>(Função)</td>
-<td>Gabriel Poffo</td>
 <td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
   <td>(Função)</td>
+<td>Gabriel Poffo</td>
+<td><a href="https://www.linkedin.com/in/gabriel-poffo-73321335b?trk=contact-info" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+</tr>
+ <tr>
+  <td>(Função)</td>
 <td>Kauê Venâncio</td>
-<td><a href="https://www.linkedin.com/in/paulo-henrique-b21680306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
   <td>(Função)</td>
 <td>Leonardo Rocha</td>
-<td><a href="https://www.linkedin.com/in/daniel-pac%C3%ADfico-500520323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+<td><a href="https://www.linkedin.com/in/leonardo-rocha-alves-921617306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
   <td>(Função)</td>
 <td>Mateus Alexandre</td>
-<td><a href="https://www.linkedin.com/in/andreza-maria-4a6625277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+<td><a href="https://www.linkedin.com/in/matheus-alexxandre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
   <td>(Função)</td>
 <td>Pedro Hernandes</td>
-<td><a href="https://www.linkedin.com/in/andreza-maria-4a6625277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
   <td>(Função)</td>
 <td>Yago Martins</td>
-<td><a href="https://www.linkedin.com/in/andreza-maria-4a6625277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
+<td><a href="https://www.linkedin.com/in/yago-martins-9a403315a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
 </table>
