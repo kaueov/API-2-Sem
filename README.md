@@ -24,7 +24,7 @@
   Através dele foi desgnada a tarefa e o prazo das atividades de cada membro do projeto, indicando o nivel de prioridade de cada tarefa a ser realizada e em qual sprint devem ser entregues organiando em anexos os outros aplicativos utilizados
 
  ### Sublime Text
-  As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta deseu tamanho, então elas foram filtradas em forma de texto através do Sublime text, que permite que diferentes arquivos de texto sejam executados simultaneamente em abas diferentes
+  As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta de seu tamanho, então elas foram filtradas em forma de texto através do Sublime text, que permite que diferentes arquivos de texto sejam executados simultaneamente em abas diferentes
  ### Excel
   Com as informações filtradas, obtivemos planilhas organizadas com apenas o necessário. O que futuramente será usado para a apresensação de dashboards no Power Bi.
 
@@ -44,22 +44,22 @@
 # Equipe
 <table>
 <tr>
-<td>(Função)</td>
+<td>Scrum Team</td>
  <td>Breno Conrado</td>
 <td><a href="https://www.linkedin.com/in/bcconrado?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-  <td>(Função)</td>
+  <td>Scrum Team</td>
 <td>Eduardo Pereira</td>
 <td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-  <td>(Função)</td>
+  <td>Scrum Team</td>
 <td>Gabriel Poffo</td>
 <td><a href="https://www.linkedin.com/in/gabriel-poffo-73321335b?trk=contact-info" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-  <td>(Função)</td>
+  <td>Scrum Team</td>
 <td>Kauê Venâncio</td>
 <td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
@@ -69,7 +69,7 @@
 <td><a href="https://www.linkedin.com/in/leonardo-rocha-alves-921617306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-  <td>(Função)</td>
+  <td>Scrum Team</td>
 <td>Mateus Alexandre</td>
 <td><a href="https://www.linkedin.com/in/matheus-alexxandre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
@@ -79,7 +79,7 @@
 <td><a href="https://www.linkedin.com/in/pedro-hernandes-720486212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-  <td>(Função)</td>
+  <td>Scrum Team</td>
 <td>Yago Martins</td>
 <td><a href="https://www.linkedin.com/in/yago-martins-9a403315a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
