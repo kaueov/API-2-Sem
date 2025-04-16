@@ -1,6 +1,6 @@
 # API-2-Sem
 <div align="center">
-<img src="null" alt="Texto alternativo" width="1000"/>
+
  <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=000&text=VoNa%20Kombi&fontColor=C4B454"/>
  </div>
 
@@ -17,7 +17,7 @@
  # Aplicabilidade das Ferramentas
  ##  Para facilitar o tratamento dos dados, foi feita a filtragem e posterior substituição dos códigos dos municípios por seus respectivos nomes com o objetivo de organizar e analisar os dados comerciais dessas regiões, facilitando a interpretação e uso posterior.
 <div align="center">
-<img src="Ferramentas.png" alt="Texto alternativo" width="1000"/>
+<img src="Ferramentas.png" alt="Ferramentas Utilizadas" width="1000"/>
  </div>
 
  ### Jira Software
@@ -64,7 +64,7 @@
 <td><a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
  <tr>
-  <td>Cum Master</td>
+  <td>Scrum Master</td>
 <td>Leonardo Rocha</td>
 <td><a href="https://www.linkedin.com/in/leonardo-rocha-alves-921617306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td> 
 </tr>
