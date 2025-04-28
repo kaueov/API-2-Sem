@@ -7,9 +7,15 @@
 # Proposta
  Realizar uma análise minuciosa sobre o fluxo logístico e comercial de produtos no território nacional brasileiro, investigando detalhadamente as rotas, modais de transporte e regiões de maior circulação de mercadorias. Além disso, examinar os principais destinos internacionais envolvidos nas relações de importação e exportação, identificando os países com maior relevância nas trocas comerciais e os tipos de produtos movimentados
 # Dashboard Interarivo
+
 <div align="center">
-<img width=100% src=""/>
+<img width=75% src="Imagens Git/Gif Dashboard.gif"/>
  </div>
+ <h1>Link do Dashboard</h1>
+
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiODRhOTU5NDItNTE0My00N2QzLWI4OTAtODk4ZDQwYzMwNTA0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">
+  <img src="https://img.icons8.com/?size=100&id=46377&format=png&color=000000"></a>
+
 
 
  # Ferramentas Utilizadas
