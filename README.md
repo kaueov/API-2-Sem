@@ -37,7 +37,7 @@
   
  # Backlog do Produto
  <div align="center">
- <img width=50% src="Imagens Git/backlog.png"/>
+ <img width=50% src=""/>
  </div>
 
 
