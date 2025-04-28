@@ -8,8 +8,9 @@
  Realizar uma análise minuciosa sobre o fluxo logístico e comercial de produtos no território nacional brasileiro, investigando detalhadamente as rotas, modais de transporte e regiões de maior circulação de mercadorias. Além disso, examinar os principais destinos internacionais envolvidos nas relações de importação e exportação, identificando os países com maior relevância nas trocas comerciais e os tipos de produtos movimentados
 # Dashboard Interarivo
 <div align="center">
-<img width=100% src="https://github.com/kaueov/API-2-Sem/blob/main/Imagens%20Git/Gif%20Dashboard.gif"/>
+<img width=100% src="Imagens Git/Gif Dashboard.gif"/>
  </div>
+
 
  # Ferramentas Utilizadas
  - Jira Software
@@ -22,7 +23,7 @@
  # Aplicabilidade das Ferramentas
  ##  Para facilitar o tratamento dos dados, foi feita a filtragem e posterior substituição dos códigos dos municípios por seus respectivos nomes com o objetivo de organizar e analisar os dados comerciais dessas regiões, facilitando a interpretação e uso posterior.
 <div align="center">
-<img src="Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="1000"/>
+<img src="Imagens Git/Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="1000"/>
  </div>
 
  ### Jira Software
@@ -37,7 +38,7 @@
   
  # Backlog do Produto
  <div align="center">
- <img width=50% src=""/>
+ <img width=100% src="Imagens Git/backlog.png"/>
  </div>
 
 
