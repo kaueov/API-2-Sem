@@ -6,7 +6,7 @@
 
 # Proposta
  Realizar uma análise minuciosa sobre o fluxo logístico e comercial de produtos no território nacional brasileiro, investigando detalhadamente as rotas, modais de transporte e regiões de maior circulação de mercadorias. Além disso, examinar os principais destinos internacionais envolvidos nas relações de importação e exportação, identificando os países com maior relevância nas trocas comerciais e os tipos de produtos movimentados
-# Dashboard Interarivo
+# MVP
 
 <div align="center">
 <img width=75% src="Imagens Git/Gif Dashboard.gif"/>
