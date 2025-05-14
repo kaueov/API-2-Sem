@@ -35,8 +35,8 @@
  ### Jira Software
   Através dele foi desgnada a tarefa e o prazo das atividades de cada membro do projeto, indicando o nivel de prioridade de cada tarefa a ser realizada e em qual sprint devem ser entregues organiando em anexos os outros aplicativos utilizados
 
- ### Sublime Text
-  As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta de seu tamanho, então elas foram filtradas em forma de texto através do Sublime text, que permite que diferentes arquivos de texto sejam executados simultaneamente em abas diferentes
+ ### SQL
+  As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta de seu tamanho, então os dados foram manipulados através do SQL, que permite que diferentes arquivos de texto sejam executados simultaneamente em abas diferentes
  ### Excel
   Com as informações filtradas, obtivemos planilhas organizadas com apenas o necessário. O que futuramente será usado para a apresensação de dashboards no Power Bi.
 
