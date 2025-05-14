@@ -9,7 +9,7 @@
 # MVP
 
 <div align="center">
-<img width=75% src="Imagens Git/Gif Dashboard.gif"/>
+<img width=75% src="Imagens/MVP2.gif"/>
  </div>
  <h1>Link do Dashboard</h1>
 
