@@ -8,13 +8,13 @@
  Realizar uma análise minuciosa sobre o fluxo logístico e comercial de produtos no território nacional brasileiro, investigando detalhadamente as rotas, modais de transporte e regiões de maior circulação de mercadorias. Além disso, examinar os principais destinos internacionais envolvidos nas relações de importação e exportação, identificando os países com maior relevância nas trocas comerciais e os tipos de produtos movimentados
 # MVP
 ## Primeiro Sprint
-<div align="center">
+
 <img width=50% src="Imagens/MVP1.gif"/>
 
 ## Segundo Sprint
 <div align="center">
 <img width=50% src="Imagens/MVP2.gif"/>
- </div>
+ 
  <h1>Link do Dashboard</h1>
 
  <a href="https://app.powerbi.com/groups/me/reports/d6b77d5d-d1c0-4fa0-88fb-ce6a2cb6e4be/93082ac22230cbea7610?experience=power-bi">
