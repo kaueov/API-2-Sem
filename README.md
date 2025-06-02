@@ -7,9 +7,13 @@
 # Proposta
  Realizar uma análise minuciosa sobre o fluxo logístico e comercial de produtos no território nacional brasileiro, investigando detalhadamente as rotas, modais de transporte e regiões de maior circulação de mercadorias. Além disso, examinar os principais destinos internacionais envolvidos nas relações de importação e exportação, identificando os países com maior relevância nas trocas comerciais e os tipos de produtos movimentados
 # MVP
-
+## Primeiro Sprint
 <div align="center">
-<img width=75% src="Imagens/MVP2.gif"/>
+<img width=50% src="Imagens/MVP1.gif"/>
+
+## Segundo Sprint
+<div align="center">
+<img width=50% src="Imagens/MVP2.gif"/>
  </div>
  <h1>Link do Dashboard</h1>
 
@@ -29,7 +33,7 @@
  # Aplicabilidade das Ferramentas
  ##  Para facilitar o tratamento dos dados, foi feita a filtragem e posterior substituição dos códigos dos municípios por seus respectivos nomes com o objetivo de organizar e analisar os dados comerciais dessas regiões, facilitando a interpretação e uso posterior.
 <div align="center">
-<img src="Imagens Git/Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="1000"/>
+<img src="Imagens/Ferramentas.png" alt="/Imagens Git/Ferramentas Utilizadas" width="750"/>
  </div>
 
  ### Jira Software
