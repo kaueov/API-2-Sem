@@ -10,10 +10,17 @@
 ## Primeiro Sprint
 
 <img width=50% src="Imagens/MVP1.gif"/>
+Foi montado um dashboard indicando a quantidade e o valor FOB exportado, onde é possivel escolhaer cada país de destino, cada mês e o modal
 
 ## Segundo Sprint
 
  <img width=50% src="Imagens/MVP2.gif"/>
+ O layout foi alterado, de maneira que ficasse mais claro e com identidade. Erros na filtragem de dados foram corrigidos, pois foi usado o SQL para divisão dos dados em tabelas específicas. Além de que paraísos fiscais foram excluidos
+
+## Terceiro Sprint
+ <img width=50% src="Imagens/MVP2.gif"/>
+ Para tornar o dashboard mais dinâmico, foi criado um menu que pode levar o usuario para quatro telas diferentes, cada uma focada em um tipo de dado: quilograma líquido, valor FOB, valor agregado e URFs.
+ Nessas telas foram adiocionados mais informaçoes e filtros, como a projeção para o ano de 2025 e também a média de exportação por valor agregado e valor FOB
 
  
  <h1>Link do Dashboard</h1>
