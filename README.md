@@ -12,8 +12,8 @@
 <img width=50% src="Imagens/MVP1.gif"/>
 
 ## Segundo Sprint
-<div align="center">
-<img width=50% src="Imagens/MVP2.gif"/>
+
+
  
  <h1>Link do Dashboard</h1>
 
