@@ -19,7 +19,9 @@ Foi desenvolvido um dashboard interativo para análise dos dados de exportação
 ## Segundo Sprint
 
  <img width=50% src="Imagens/MVP2.gif"/>
- O layout foi alterado, de maneira que ficasse mais claro e com identidade. Erros na filtragem de dados foram corrigidos, pois foi usado o SQL para divisão dos dados em tabelas específicas. Além de que paraísos fiscais foram excluidos
+ O layout do dashboard foi reformulado com foco em usabilidade, clareza visual e padronização da identidade visual institucional, facilitando a interpretação dos dados por diferentes perfis de usuários. Foram corrigidos erros de filtragem que comprometiam as análises, com a aplicação de consultas SQL otimizadas para segmentação dos dados em tabelas específicas, garantindo maior precisão e integridade das informações.
+
+Adicionalmente, foram implementadas regras de exclusão para territórios classificados como paraísos fiscais, a fim de evitar distorções nos indicadores comerciais e assegurar maior conformidade com práticas de transparência fiscal e padrões internacionais de reporte estatístico.
 
 ## Terceiro Sprint
  <img width=50% src="Imagens/MVP2.gif"/>
