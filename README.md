@@ -41,7 +41,7 @@ Adicionalmente, foram implementadas regras de exclusão para territórios classi
  - Excel
  - Power Point
  - Microsoft Word
- - Sublime Text
+ - SQL Workbench
  - Power BI
 
  # Aplicabilidade das Ferramentas
