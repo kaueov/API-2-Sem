@@ -31,7 +31,7 @@ Adicionalmente, foram implementadas regras de exclusão para territórios classi
  
  <h1>Link do Dashboard</h1>
 
- <a href="https://app.powerbi.com/groups/me/reports/d6b77d5d-d1c0-4fa0-88fb-ce6a2cb6e4be/93082ac22230cbea7610?experience=power-bi">
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiYzE3MTVlMWMtOGU0OC00OWZkLTg0YWEtOTdiYzBjMzM1Nzc1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9">
   <img src="https://img.icons8.com/?size=100&id=46377&format=png&color=000000"></a>
 
 
