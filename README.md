@@ -5,12 +5,16 @@
  </div>
 
 # Proposta
- Realizar uma análise minuciosa sobre o fluxo logístico e comercial de produtos no território nacional brasileiro, investigando detalhadamente as rotas, modais de transporte e regiões de maior circulação de mercadorias. Além disso, examinar os principais destinos internacionais envolvidos nas relações de importação e exportação, identificando os países com maior relevância nas trocas comerciais e os tipos de produtos movimentados
+ Realizar um estudo aprofundado sobre o fluxo logístico e comercial dos produtos destinados à exportação, abrangendo os principais modais de transporte utilizados, bem como a análise dos valores transacionados sob a modalidade FOB (Free on Board), o valor agregado das mercadorias, a quantidade total exportada em toneladas ou unidades, e a identificação das principais regiões geoeconômicas com maior concentração e circulação de mercadorias.
+
+A análise também deve contemplar uma projeção para o ano de 2025, considerando variáveis econômicas, tendências de mercado internacional, acordos comerciais vigentes, expansão da infraestrutura logística e potenciais gargalos operacionais.
+
+Paralelamente, será conduzido um exame detalhado dos principais destinos internacionais envolvidos nas relações comerciais de importação e exportação, com a identificação dos países com maior representatividade no volume e valor das trocas comerciais, os produtos com maior participação na pauta exportadora e importadora, bem como os segmentos industriais mais relevantes em termos de competitividade e presença internacional.
 # MVP
 ## Primeiro Sprint
 
 <img width=50% src="Imagens/MVP1.gif"/>
-Foi montado um dashboard indicando a quantidade e o valor FOB exportado, onde é possivel escolhaer cada país de destino, cada mês e o modal
+Foi desenvolvido um dashboard interativo para análise dos dados de exportação, apresentando a quantidade exportada e o valor FOB das mercadorias. A ferramenta permite filtros por país de destino, mês e modal de transporte (rodoviário, ferroviário, marítimo, aéreo ou multimodal), proporcionando uma visualização dinâmica e estratégica dos fluxos logísticos e comerciais. Com isso, é possível identificar sazonalidades, avaliar a eficiência dos modais e analisar a relevância dos mercados internacionais de forma segmentada.
 
 ## Segundo Sprint
 
@@ -48,10 +52,9 @@ Foi montado um dashboard indicando a quantidade e o valor FOB exportado, onde é
   Através dele foi desgnada a tarefa e o prazo das atividades de cada membro do projeto, indicando o nivel de prioridade de cada tarefa a ser realizada e em qual sprint devem ser entregues organiando em anexos os outros aplicativos utilizados
 
  ### SQL
-  As planilhas usadas como base para as informações não eram suportadas pelo Excel por conta de seu tamanho, então os dados foram manipulados através do SQL Workbench, para cirar diferentes tabelas a partir dos filtros inseridos nele. Por conta da incompatibilidade entre ele e o Power BI, foi utilizado o driver Connector/ODBC que permitiu a integração dos dados entre os aplicativos
+  A planilha principal como fonte de dados ultrapassavam os limites de linhas e colunas suportados pelo Microsoft Excel, inviabilizando sua manipulação direta na aplicação, então ela foi dividida em planilhas menores separadas por ano. Para contornar essa restrição, os dados foram importados e processados no SQL Workbench, onde foram aplicados filtros e transformações para gerar tabelas segmentadas conforme os critérios analíticos definidos. Considerando a ausência de integração nativa entre o SQL Workbench e o Power BI, foi configurado o driver MySQL Connector/ODBC, permitindo a conexão via ODBC e a extração dos dados diretamente para o Power BI. Essa abordagem possibilitou a atualização dinâmica e o consumo eficiente das informações na camada de visualização.
  ### Excel
-  Com as informações filtradas, obtivemos planilhas organizadas com apenas o necessário. O que futuramente será usado para a apresensação de dashboards no Power Bi.
-
+  Para viabilizar a filtragem da planilha principal por meio de consultas SQL, foram gerados diversos arquivos auxiliares contendo planilhas segmentadas de forma criteriosa, organizadas exclusivamente com os dados relevantes e estruturadas por ano. Essa abordagem permitiu otimizar o desempenho das consultas, reduzir a complexidade dos dados processados e facilitar a manipulação e análise das informações históricas de maneira eficiente e escalável..
   
   
  # Backlog do Produto
