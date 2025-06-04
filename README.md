@@ -71,13 +71,13 @@ Adicionalmente, foram implementadas regras de exclusão para territórios classi
  <td>2º Sprint</td> <td>Filtragem e exibição da matriz de origem e destino</td>
 </tr>
   <tr>
- <td>2º Sprint</td> <td>Filtros precisos a partir da integração com o SQL Workbench</td>
+ <td>2º Sprint</td> <td>Tratamento de dados a partir da integração com o SQL Workbench</td>
    </tr>
  <tr>
   <td>2º Sprint</td> <td>Segunda tela interativa condendo dados com NCM</td>
 </tr>
 <tr>
- <td>2º Sprint</td>
+ <td>2º Sprint</td> <td></td>
 </tr>
 
 
