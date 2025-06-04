@@ -77,10 +77,23 @@ Adicionalmente, foram implementadas regras de exclusão para territórios classi
   <td>2º Sprint</td> <td>Segunda tela interativa condendo dados com NCM</td>
 </tr>
 <tr>
- <td>2º Sprint</td> <td></td>
+ <td>2º Sprint</td> <td>Verificação de rotas e valores absurdos no banco de dados</td>
 </tr>
-
-
+<tr>
+ <td>2º Sprint</td> <td>Integração de dados de 2023 e 2024 ao banco de dados</td>
+</tr>
+<tr>
+ <td>3º Sprint</td> <td>Comparativo da movimentação dos estados brasileiros</td>
+</tr>
+<tr>
+ <td>3º Sprint</td> <td>Entendimento da sazonalidade de cada modal logístico</td>
+</tr>
+<tr>
+ <td>3º Sprint</td> <td>Adição de uma tela menu ao dashboard</td>
+</tr>
+<tr>
+ <td>3º Sprint</td> <td>Remoção de paraísos fiscasis</td>
+</tr>
 
 
 
