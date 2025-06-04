@@ -60,10 +60,25 @@ Adicionalmente, foram implementadas regras de exclusão para territórios classi
   
   
  # Backlog do Produto
- <div align="center">
- <img width=100% src="Imagens Git/backlog.png"/>
- </div>
-
+ <table>
+ <tr>
+  <td>1º Sprint</td> <td> filtragem superficial dos dados para montar o esboço do dashboard</td>
+ </tr>
+ <tr>
+  <td>1º Sprint</td> <td>Prieiro dashboard indicando valor FOB e quantidade de exportações para cada país em cada mês</td>
+ </tr>
+<tr>
+ <td>2º Sprint</td> <td>Filtragem e exibição da matriz de origem e destino</td>
+</tr>
+  <tr>
+ <td>2º Sprint</td> <td>Filtros precisos a partir da integração com o SQL Workbench</td>
+   </tr>
+ <tr>
+  <td>2º Sprint</td> <td>Segunda tela interativa condendo dados com NCM</td>
+</tr>
+<tr>
+ <td>2º Sprint</td>
+</tr>
 
 
 
