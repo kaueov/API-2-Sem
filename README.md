@@ -60,6 +60,7 @@ Adicionalmente, foram implementadas regras de exclusão para territórios classi
   
   
  # Backlog do Produto
+ 
  <table>
  <tr>
   <td>1º Sprint</td> <td> filtragem superficial dos dados para montar o esboço do dashboard</td>
@@ -94,10 +95,15 @@ Adicionalmente, foram implementadas regras de exclusão para territórios classi
 <tr>
  <td>3º Sprint</td> <td>Remoção de paraísos fiscasis</td>
 </tr>
+<tr>
+ <td>3º Sprint</td> <td>Exibir quais foram os países que mais importaram do Brasil e qual o estado brasileiroquemais movimenta cargas</td>
+</tr>
+ </table>
 
-
+ 
 
 # Equipe
+
 <table>
 <tr>
 <td>Scrum Team</td>
