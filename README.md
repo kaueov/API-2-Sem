@@ -24,7 +24,7 @@ Foi desenvolvido um dashboard interativo para análise dos dados de exportação
 Adicionalmente, foram implementadas regras de exclusão para territórios classificados como paraísos fiscais, a fim de evitar distorções nos indicadores comerciais e assegurar maior conformidade com práticas de transparência fiscal e padrões internacionais de reporte estatístico.
 
 ## Terceiro Sprint
- <img width=50% src="Imagens/MVP2.gif"/>
+ <img width=50% src="Imagens/MVP3.gif"/>
  Para tornar o dashboard mais dinâmico, foi criado um menu que pode levar o usuario para quatro telas diferentes, cada uma focada em um tipo de dado: quilograma líquido, valor FOB, valor agregado e URFs.
  Nessas telas foram adiocionados mais informaçoes e filtros, como a projeção para o ano de 2025 e também a média de exportação por valor agregado e valor FOB
 
